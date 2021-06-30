@@ -1,2 +1,2 @@
 # Practise
-first exercises
+first exercises by coursera
